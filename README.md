@@ -1,4 +1,4 @@
-<video src='https://youtu.be/zbGTn8hbrNc' width=180></video>
+https://github.com/user-attachments/assets/3d26de2c-6202-43d4-89fe-3b15a721610e
 
 ## Inspiration
 As cyber threats continue to evolve at a rapid pace, traditional rule-based intrusion detection systems struggle to keep up. A 2021 study in the journal Cybersecurity (Khraisat et al., 2021) concluded that signature-based IDS (rule-based) fail to detect 68% of sophisticated attacks (e.g., APTs, encrypted threats). This creates a growing issue and cybersecurity, thus smarter detection systems are needed.
